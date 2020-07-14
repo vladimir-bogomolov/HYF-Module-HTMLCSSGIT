@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(131, 131, 243); 
+    color:black;
+}
+h1{
+    font-family:sans-serif;
+  }
+
+
+p {  
+    text-align: center;
+    font-family: Gill Sans, sans-serif;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside; 
+}
+
+.copyright {
+    text-align: left;
+}
